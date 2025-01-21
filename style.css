@@ -1,4 +1,3 @@
-/* Header */
 .header {
   display: flex;
   align-items: center;
@@ -16,7 +15,6 @@
   font-size: 24px;
 }
 
-/* Navbar */
 .navbar {
   background-color: #333;
   padding: 10px;
@@ -41,7 +39,6 @@
   color: #ccc;
 }
 
-/* Container */
 .container {
   display: flex;
   justify-content: space-between;
@@ -85,7 +82,6 @@
   background-color: #004999;
 }
 
-/* Form */
 .form-container {
   flex: 1;
   border: 1px solid #ddd;
@@ -143,7 +139,6 @@
   text-decoration: underline;
 }
 
-/* Footer */
 .footer {
   background-color: #333;
   color: white;
@@ -161,7 +156,6 @@
   text-decoration: underline;
 }
 
-/* Responsive Design */
 @media (max-width: 768px) {
   .container {
     flex-direction: column;
